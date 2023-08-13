@@ -16,6 +16,8 @@
 
 🌟 Excited to leverage my educational background and testing expertise to embark on a fulfilling career in software testing.
 
+📫 How to reach me sohamkhune27@gmail.com
+
 <!---
 sohamkhune27/sohamkhune27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
