@@ -1,24 +1,21 @@
-🎓 Final year Computer Science & Engineering student with a passion for software testing and quality assurance.
+📊 Final year Computer Science & Engineering student with a keen interest in business analysis and analytics.
 
-💻 Proven track record in applying theoretical knowledge from my coursework to real-world software testing scenarios.
+💼 Proficient in applying theoretical concepts from coursework to real-world business analysis scenarios, with a focus on optimizing processes and driving strategic decision-making.
 
-🧪 Experience in manual testing, regression testing, and defect identification, bolstered by internships and projects.
+📈 Skilled in data analysis, statistical modeling, and visualization techniques, supported by internships and hands-on projects.
 
-🌐 Dedicated to ensuring software quality and user satisfaction by meticulously examining and improving software functionality.
+🔎 Experience in gathering and analyzing business requirements, identifying key performance indicators, and translating insights into actionable recommendations.
 
-🚀 Enthusiastic about collaborating with cross-functional teams, learning from developers, and contributing to agile workflows.
+🌐 Committed to enhancing business performance and fostering growth by leveraging data-driven insights to drive innovation and competitiveness.
 
-🔍 Detail-oriented and skilled in identifying critical issues, ensuring products meet the highest standards of performance and reliability.
+🚀 Enthusiastic about collaborating with cross-functional teams, including stakeholders, developers, and end-users, to ensure alignment and maximize business value.
 
-🌱 Keen on continuous learning, I'm always exploring new testing methodologies and tools to stay ahead in the evolving tech landscape.
+🧩 Detail-oriented and adept at uncovering insights, identifying trends, and solving complex business problems through rigorous analysis.
 
-🤝 Open to connecting with industry professionals, mentors, and fellow students to exchange insights and broaden my network.
+📚 Passionate about continuous learning, I actively explore new methodologies, tools, and industry trends to stay at the forefront of business analysis and analytics.
 
-🌟 Excited to leverage my educational background and testing expertise to embark on a fulfilling career in software testing.
+🤝 Open to connecting with professionals, mentors, and peers to exchange knowledge, explore opportunities, and expand my professional network.
 
-📫 How to reach me sohamkhune27@gmail.com
+🌟 Excited to leverage my educational background and analytical skills to contribute to organizations' success and pursue a rewarding career in business analysis and analytics.
 
-<!---
-sohamkhune27/sohamkhune27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-You can click the Preview link to take a look at your changes.
---->
+📫 Feel free to reach out to me at sohamkhune27@gmail.com to discuss collaborations, opportunities, or simply to connect!
